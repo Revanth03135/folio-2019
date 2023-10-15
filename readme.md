@@ -1,23 +1,14 @@
-# Folio 2019
+# GitHub Freshmen Workshop 2023
+## _GitHub Campus Club, **PSG College of Technology**_
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+We, the GitHub Campus Club, are using this repository containing source code of [Bruno Simon](https://github.com/brunosimon/folio-2019) 's personal portfolio page for demonstration.
 
-``` bash
-# Just be sure that you've got parcel js on you system
-npm install -g parcel-bundler
+To run this project (_preview in developer mode_)
 
-# Install dependencies (only for first time)
-npm i
+```bash
+# first run 
+export NODE_OPTIONS=--openssl-legacy-provider
 
-# Serve at localhost:1234
+# then run
 npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
-
-```
-🥚 2021eggpvlzscw
-```
+``` 
