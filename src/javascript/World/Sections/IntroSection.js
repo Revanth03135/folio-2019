@@ -200,7 +200,7 @@ export default class IntroSection {
             });
 
             // Text
-            const textGeometry = new THREE.TextGeometry("Nithiin Kathiresan", {
+            const textGeometry = new THREE.TextGeometry("ABC", {
                 font: font,
                 size: 1,
                 height: 0.05,
