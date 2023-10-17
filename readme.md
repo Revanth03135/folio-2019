@@ -6,6 +6,9 @@ We, the GitHub Campus Club, are using this repository containing source code of 
 To run this project (_preview in developer mode_)
 
 ```bash
+# Install dependencies (only for first time)
+npm i
+
 # first run 
 export NODE_OPTIONS=--openssl-legacy-provider
 
